@@ -1,6 +1,6 @@
 # Python_template_IDS706
 
-This repository provides a clean, modular Python project template tailored for IDS 706: Data Engineering Systems. It, using cloud VScode extension, includes the necessary structure, tools, and automation to get you started with writing production-level Python code.
+This repository provides a clean, modular Python project template tailored for IDS 706: Data Engineering Systems. It, using cloud-based VScode extension, includes the necessary structure, tools, and automation to get you started with writing production-level Python code.
 
 ## Project Overview
 This template helps students and developers:
@@ -22,8 +22,7 @@ This template provides a structured way to set up a Python project with essentia
 - GitHub Actions for continuous integration to automate linting and testing.
 - Github Copilot for AI-assisted coding.
 
-## Project Setup
-### Create your first project for Data Engineering Systems (IDS 706)
+## Project Setup and Usage Example
 
 ### Two approaches:
 

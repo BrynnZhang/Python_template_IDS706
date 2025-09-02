@@ -22,8 +22,6 @@ This template provides a structured way to set up a Python project with essentia
 - GitHub Actions for continuous integration to automate linting and testing.
 - Github Copilot for AI-assisted coding.
 
-
-[![Python Template for IDS706](https://github.com/zhongyuan-duke/IDS-706-week-1-template/actions/workflows/main.yml/badge.svg)](https://github.com/zhongyuan-duke/IDS-706-week-1-template/actions/workflows/main.yml)
 ## Project Setup
 ### Create your first project for Data Engineering Systems (IDS 706)
 
@@ -224,3 +222,7 @@ jobs:
 
 ## Acknowledgments
 This template was created as part of the Data Engineering Systems (IDS 706) course to help students set up their projects efficiently using modern development practices.   
+
+## References
+https://github.com/zhongyuan-duke/IDS-706-week-1-template/blob/main/README.md
+ChatGPT

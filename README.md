@@ -207,7 +207,11 @@ jobs:
 2. You should see the workflow running.
 3. Click on the latest workflow run to see the details.
 
-
+## If changed locally when local and git do not sync
+force push to keep local changes to git
+```
+git push origin main --force
+```
 
 ## Additional Resources
 - [GitHub Documentation](https://docs.github.com/en)
